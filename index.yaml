@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cloudwalker-deployer:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-16T20:06:43.980976954Z"
+    description: A Helm chart for Kubernetes
+    digest: 21a30053649ccb7203f6a429c5e06ab59ddb2d862ad1e2b2f4daa8c23c3225d4
+    name: cloudwalker-deployer
+    type: application
+    urls:
+    - https://github.com/cloudwalkers/cw-helm-charts/releases/download/cloudwalker-deployer-0.1.0/cloudwalker-deployer-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-16T20:06:43.980983454Z"
